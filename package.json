@@ -1,7 +1,7 @@
 {
   "name": "mmm-vvsdeparture",
   "version": "1.1.0",
-  "description": "A MagicMirror module to display information about public transport in Stuttgart, Germany",
+  "description": "A MagicMirror² module to display information about public transport in Stuttgart, Germany.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fhinder/MMM-vvsDeparture"
@@ -10,7 +10,7 @@
     "magicmirror",
     "magicmirror2",
     "vvs",
-	"public-transport"
+    "public transport"
   ],
   "author": "Fabian Hinder",
   "license": "MIT",
